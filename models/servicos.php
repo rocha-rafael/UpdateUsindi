@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
 
-    <title>Servi&ccedil;os | USINDI Montagens e Manuten&ccedil;&atilde;o LTDA</title>
+    <title>Servi&ccedil;os | USINDI Montagens e Manuten&ccedil;&atilde;o EIRELI</title>
 
     <meta name="description" content="">
     <meta name="robots" content="index, follow">
@@ -26,7 +26,7 @@
     <link rel="stylesheet" href="/templates/default/css/custom.css">
     <link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/font-awesome/4.2.0/css/font-awesome.min.css">
 
-    <script type="text/javascript" src="http://gc.kis.v2.scr.kaspersky-labs.com/FD9A4008-AD0A-DD48-B012-76174E27104A/main.js" charset="UTF-8"></script><script src="//code.jquery.com/jquery-1.10.2.min.js"></script>
+    <script type="text/javascript" src="https://gc.kis.v2.scr.kaspersky-labs.com/FD9A4008-AD0A-DD48-B012-76174E27104A/main.js" charset="UTF-8"></script><script src="//code.jquery.com/jquery-1.10.2.min.js"></script>
     <script src="//cdnjs.cloudflare.com/ajax/libs/bootstrap-select/1.6.5/js/bootstrap-select.min.js"></script>
     <script src="/common/js/modernizr-2.6.1.min.js"></script>
 
@@ -109,7 +109,7 @@
   <div class="container">
     <header class="header">
       <div class="header__logo">
-      <a  href="/pt/" title="Home"><img class="img-responsive" src="/templates/default/images/logo.png" alt="USINDI | Montagens e Manuten&ccedil;&atilde;o LTDA"></a>
+      <a  href="/pt/" title="Home"><img class="img-responsive" src="/templates/default/images/logo.png" alt="USINDI | Montagens e Manuten&ccedil;&atilde;o EIRELI"></a>
 
         <button data-target="#usindi-navbar-collapse" data-toggle="collapse" class="navbar-toggle" type="button">
           <span class="navbar-toggle__text">MENU</span>
@@ -205,7 +205,7 @@
     <!--fim linguagem do site -->
 </section>
 <section class="">
-<li> <a target="_self" class="btn btn-primary" <a href="http://catalogo.usindi.com.br/"><i class="fa-newspaper-o"></i> Catálogo</a></li>
+<li> <a target="_self" class="btn btn-primary" <a href="https://catalogo.usindi.com.br/"><i class="fa-newspaper-o"></i> Catálogo</a></li>
 </section>
 </div>
 
@@ -245,7 +245,7 @@
 			<div class="container">
 				<h1 class="main-title__primary">Serviços</h1>
 				<!-- h3 class="main-title__secondary">Usindi  Montagem e Manutenção Industrial</h3 -->
-                                <p><b> USINDI - Montagens e Manuten&ccedil;&atilde;o LTDA </b></p>
+                                <p><b> USINDI - Montagens e Manuten&ccedil;&atilde;o EIRELI</b></p>
 			</div>
 		</div><!-- /.main-title -->
 		</div>
@@ -304,16 +304,16 @@
                       <a href="todos-servicos">Todos Serviços</a>
                       </li>
                       <li>
-                      <a href="http://usindi.com.br/pt/ferroviarios">Ferroviários</a>
+                      <a href="https://usindi.com.br/pt/ferroviarios">Ferroviários</a>
                       </li>
                       <li>
-                      <a href="http://usindi.com.br/pt/fundicao">Fundição</a></a>
+                      <a href="https://usindi.com.br/pt/fundicao">Fundição</a></a>
                       </li>
                       <li>
-                      <a href="http://usindi.com.br/pt/galvanizacao">Galvanização</a>
+                      <a href="https://usindi.com.br/pt/galvanizacao">Galvanização</a>
                       </li>
                       <li>
-                      <a href="http://usindi.com.br/pt/eletro-ferragens">Eletro Ferragens</a>
+                      <a href="https://usindi.com.br/pt/eletro-ferragens">Eletro Ferragens</a>
                       </li>
                     </ul>
                 </div>
@@ -394,7 +394,7 @@
         <div class="container" id="footer">
             <div class="row">
 
-            <div class="widget-footer"><div id="widget-6" class="widget"><div class="widget-title">Contato</div><div class="widget-content"><div style="background-image: url('http://www.usindi.com.br/images/world-map.png'); background-position: 50% 50%; background-repeat: no-repeat">
+            <div class="widget-footer"><div id="widget-6" class="widget"><div class="widget-title">Contato</div><div class="widget-content"><div style="background-image: url('https://www.usindi.com.br/images/world-map.png'); background-position: 50% 50%; background-repeat: no-repeat">
 <ul class="list-large list-icons">
 	<li><strong>Endereço:</strong> Avenida Presidente Getúlio Vargas, <br />
 	4074 – Bairro Revoredo, Tubarão – SC.</li>
@@ -447,7 +447,7 @@
 <p style="text-align: center;"><span style="color:#FFFFFF;"></span><big></span></big></p>
 
 <div class="fb-page" data-adapt-container-width="false" data-height="100" data-hide-cover="false" data-href="https://www.facebook.com/usindi.brasil" data-show-facepile="false" data-small-header="false" data-tabs="timeline,events,messages">
-<blockquote cite="https://www.facebook.com/usindi.brasil" class="fb-xfbml-parse-ignore"><a href="https://www.facebook.com/usindi.brasil" target="_blank">USINDI - Montagens e Manutenção LTDA</a></blockquote>
+<blockquote cite="https://www.facebook.com/usindi.brasil" class="fb-xfbml-parse-ignore"><a href="https://www.facebook.com/usindi.brasil" target="_blank">USINDI - Montagens e Manutenção EIRELI</a></blockquote>
 </div>
 </div></div></div>
             </div>

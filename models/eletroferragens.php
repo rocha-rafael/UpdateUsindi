@@ -71,8 +71,7 @@ require(SYSBASE."templates/".TEMPLATE."/common/header.php");?>
 							<p><?php echo $texts['CONTEUDO_ELETROFERRAGENS_2']; ?></p>
                             -->
 
-                            <p>Com uma capacidade instalada de produção superior a 500 Toneladas/Mês. Atendendo uma diversidade de mercados tais como: Concessionárias de Energia Elétrica Públicas e Privadas, Empresas de Varejo de Materiais Elétricos e Empresas de Engenharia. Com qualidade e pontualidade de entrega e atendendo a todas as Normas da ABNT e a todas as demandas técnicas individuais de cada projeto ou cliente.</p>
-                            <p>Nossa linha de produtos atende a todas as demandas dos mercados Nacional e Internacional dentro do mais alto nível de excelência em qualidade.</p>
+                            <p>Nossa linha de produtos atende a todas as demandas dos mercados Nacional e Internacional dentro do mais alto n&iacute;vel de excel&ecirc;ncia em qualidade. Com uma capacidade instalada de produ&ccedil;&atilde;o superior a 500 Toneladas/M&ecirc;s. Atendendo a uma diversidade de mercados tais como: Concession&aacute;rias de Energia El&eacute;trica P&uacute;blicas e Privadas, Empresas do Varejo de Materiais El&eacute;tricos e Empresas de Engenharia. Com qualidade, pontualidade de entrega, atendendo a todas as Normas da ABNT e a todas as demandas t&eacute;cnicas individuais de cada projeto ou cliente.</p>
 
 						</div><!-- /.col -->
 
@@ -91,11 +90,6 @@ require(SYSBASE."templates/".TEMPLATE."/common/header.php");?>
                   <figure class="gallery-item">
                       <a href="<?php echo DOCBASE; ?>templates/<?php echo TEMPLATE; ?>/images/empresa/grande/2.jpg">
                           <img alt="about" src="<?php echo DOCBASE; ?>templates/<?php echo TEMPLATE; ?>/images/empresa/pequena/2.jpg">
-                      </a>
-                  </figure>
-                  <figure class="gallery-item">
-                      <a href="<?php echo DOCBASE; ?>templates/<?php echo TEMPLATE; ?>/images/empresa/grande/3.jpg">
-                          <img alt="about" src="<?php echo DOCBASE; ?>templates/<?php echo TEMPLATE; ?>/images/empresa/pequena/3.jpg">
                       </a>
                   </figure>
                   <figure class="gallery-item">

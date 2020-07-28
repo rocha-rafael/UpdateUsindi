@@ -131,7 +131,7 @@ require(SYSBASE."templates/".TEMPLATE."/common/header.php"); ?>
                         <p>
                             <a href=\"".$s_page_alias."\" title=\"".$s_page_title."\">".$result_title."</a><br>";
                             if($result_descr != "") $res .= $result_descr."<br>";
-                            $res .= "<small>http://www.".$_SERVER['HTTP_HOST'].$s_page_alias."</small>
+                            $res .= "<small>https://www.".$_SERVER['HTTPS_HOST'].$s_page_alias."</small>
                         </p>";
 
                         $results[] = $res;
@@ -160,7 +160,7 @@ require(SYSBASE."templates/".TEMPLATE."/common/header.php"); ?>
                         <p>
                             <a href=\"".$s_article_alias."\" title=\"".$s_article_title."\">".$result_title."</a><br>";
                             if($result_descr != "") $res .= $result_descr."<br>";
-                            $res .= "<small>http://www.".$_SERVER['HTTP_HOST'].$s_article_alias."</small>
+                            $res .= "<small>https://www.".$_SERVER['HTTPS_HOST'].$s_article_alias."</small>
                         </p>";
 
                         $results[] = $res;

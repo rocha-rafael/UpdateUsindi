@@ -71,8 +71,8 @@ require(SYSBASE."templates/".TEMPLATE."/common/header.php");?>
 							<p><?php echo $texts['CONTEUDO_FUNDICAO_2']; ?></p>
                             -->
 
-                            <p>Com capacidade instalada de produção com máquinas e equipamentos de última geração estamos preparados para atender aos mais exigentes mercados dentro do território Nacional e Internacional.</p>
-                            <p>Estamos equipados com o que há de melhor no mercado Nacional e Internacional em termos de tecnologia de fundidos e aliado ao nosso rígido controle de qualidade, podemos garantir aos nossos clientes produtos com padrão de excelência em qualidade e agilidade de entrega. Nossa equipe está preparada para atender suas necessidades em peças fundidas de alta qualidade.</p>
+                            <p>Com capacidade instalada de produ&ccedil;&atilde;o com m&aacute;quinas e equipamentos de &uacute;ltima gera&ccedil;&atilde;o. Estamos equipados para atender aos mais rigorosos mercados dentro do territ&oacute;rio Nacional e Internacional em termos de tecnologia de fundidos.</p>
+                            <p>Aliado ao nosso r&iacute;gido controle de qualidade, podemos garantir aos nossos clientes produtos com padr&atilde;o de excel&ecirc;ncia em qualidade e agilidade de entrega. Nossa equipe est&aacute; preparada para atender suas necessidades em pe&ccedil;as fundidas de alta qualidade.</p>
 
 						</div><!-- /.col -->
 
@@ -91,11 +91,6 @@ require(SYSBASE."templates/".TEMPLATE."/common/header.php");?>
                   <figure class="gallery-item">
                       <a href="<?php echo DOCBASE; ?>templates/<?php echo TEMPLATE; ?>/images/empresa/grande/2.jpg">
                           <img alt="about" src="<?php echo DOCBASE; ?>templates/<?php echo TEMPLATE; ?>/images/empresa/pequena/2.jpg">
-                      </a>
-                  </figure>
-                  <figure class="gallery-item">
-                      <a href="<?php echo DOCBASE; ?>templates/<?php echo TEMPLATE; ?>/images/empresa/grande/3.jpg">
-                          <img alt="about" src="<?php echo DOCBASE; ?>templates/<?php echo TEMPLATE; ?>/images/empresa/pequena/3.jpg">
                       </a>
                   </figure>
                   <figure class="gallery-item">

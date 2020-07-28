@@ -130,16 +130,16 @@ require(SYSBASE."templates/".TEMPLATE."/common/header.php"); ?>
         <div class="map margin-bottom-60">     
 
         </div>
-        <div class="values2 margin-bottom-40">
+        
+            <div class="values2 margin-bottom-40">
 
-        <div class="container">
+                <div class="container">
 
-            <div class="col-sm-8 col-sm-offset-2">
+                    <div class="col-sm-8 col-sm-offset-2">
 
-
+                </div>
             </div>
         </div>
-    </div>
 
         <!-- FIM MAPA USINDI -->
 
@@ -155,7 +155,7 @@ require(SYSBASE."templates/".TEMPLATE."/common/header.php"); ?>
                         <span class="widget-title__inline">CONTATOS</span>
                     </h3>
                     <p>
-                        <strong>USINDI | Montagens e Manutenção LTDA</strong><br>
+                        <strong>USINDI | Montagens e Manutenção EIRELI</strong><br>
                         Avenida Presidente Get&ucute;lio Vargas, <br>
                         4074 – Bairro Revoredo, Tubarão – SC.
                     </p>
@@ -167,14 +167,6 @@ require(SYSBASE."templates/".TEMPLATE."/common/header.php"); ?>
                       <br>Contato comercial:
                         <a href="mailto:comercial@usindi.com.br">comercial@usindi.com.br</a>
                     </p>
-
-                    <!--SAC USINDI
-
-                    <p>
-                        <strong>SAC USINDI</strong><br>
-                        Eletro Ferragens e Ferrovia: 0800-941-1268<br>
-                        <a href="mailto:sac@usindi.com.br">sac@usindi.com.br</a>
-                    </p>--!>
                 </div>
             </div>
         </div>
