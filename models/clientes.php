@@ -20,7 +20,7 @@ require(SYSBASE."templates/".TEMPLATE."/common/header.php");?>
 			<div class="container">
 				<h1 class="main-title__primary"><?php echo $texts['CLIENTES']; ?></h1>
 				<!-- h3 class="main-title__secondary"><?php echo $texts['NOME_EMPRESA']; ?></h3 -->
-                                <p><b> USINDI - Montagens e Manuten&ccedil;&atilde;o LTDA </b></p>
+                                <p><b> USINDI - Montagens e Manuten&ccedil;&atilde;o EIRELI</b></p>
 			</div>
 		</div><!-- /.main-title -->
 		</div>

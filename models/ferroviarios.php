@@ -71,11 +71,11 @@ require(SYSBASE."templates/".TEMPLATE."/common/header.php");?>
 
 							<p><?php echo $texts['CONTEUDO_FERROVIARIOS_2']; ?></p>
                              -->
-                            <p>Atuamos a mais de 25 Anos na Indústria Ferroviária. Atendendo os exigentes mercados Nacional e Internacional. Nosso portfólio de produtos de componentes ferroviários de locomotiva e vagão atende o mercado Nacional e Internacional nas bitolas métricas (1,0 Metro) e larga (1,6 Metro) dentro das exigentes normas da indústria.</p>
-                            <p>Com capacidade instalada de produção de mais de 100 Toneladas/Mês, atendemos aos mais exigentes clientes da Indústria Ferroviária Nacional e Internacional.</p>
-                            <p>Nossa área de desenvolvimento de novos produtos está atenta às demandas do mercado e busca sempre estar à frente nas inovações tecnológicas que nos permitam garantir a excelência na qualidade de nossos produtos e serviços.</p>
+                            <p>Atuamos a mais de 25 Anos na Ind&uacute;stria Ferrovi&aacute;ria. Nosso portf&oacute;lio de produtos de componentes ferrovi&aacute;rios de locomotiva e vag&atilde;o atende os mercados Nacional e Internacional nas bitolas m&eacute;tricas (1,0 Metro) e larga (1,6 Metro) dentro das exigentes normas da ind&uacute;stria.</p>
+                            <p>Com capacidade instalada de produ&ccedil;&atilde;o de mais de 200 Toneladas/M&ecirc;s, atendemos aos mais exigentes clientes da Ind&uacute;stria Ferrovi&aacute;ria Nacional e Internacional.</p>
+                            <p>Nossa &aacute;rea de desenvolvimento de novos produtos est&aacute; atenta &aacute;s demandas do mercado e busca sempre estar &agrave; frente nas inova&ccedil;&otilde;es tecnol&oacute;gicas que nos permitam garantir a excel&ecirc;ncia na qualidade de nossos produtos e servi&ccedil;os.</p>
 
-              <p><?php echo $texts['CONTEUDO_FERROVIARIOS_3']; ?></p>
+              <!-- p><?php echo $texts['CONTEUDO_FERROVIARIOS_3']; ?></p -->
 
 						</div><!-- /.col -->
 
@@ -94,11 +94,6 @@ require(SYSBASE."templates/".TEMPLATE."/common/header.php");?>
                   <figure class="gallery-item">
                       <a href="<?php echo DOCBASE; ?>templates/<?php echo TEMPLATE; ?>/images/empresa/grande/2.jpg">
                           <img alt="about" src="<?php echo DOCBASE; ?>templates/<?php echo TEMPLATE; ?>/images/empresa/pequena/2.jpg">
-                      </a>
-                  </figure>
-                  <figure class="gallery-item">
-                      <a href="<?php echo DOCBASE; ?>templates/<?php echo TEMPLATE; ?>/images/empresa/grande/3.jpg">
-                          <img alt="about" src="<?php echo DOCBASE; ?>templates/<?php echo TEMPLATE; ?>/images/empresa/pequena/3.jpg">
                       </a>
                   </figure>
                   <figure class="gallery-item">

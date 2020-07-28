@@ -170,7 +170,7 @@ if($result_slide !== false){
                 <h3><?php echo $texts['BEM_VINDOS']; ?></h3>
                 <p class="text-center">
                     <!-- <span><?php echo $texts['NOME_EMPRESA']; ?></span> -->
-                    USINDI MONTAGENS E MANUTEN&Ccedil;&Atilde;O LTDA
+                    USINDI MONTAGENS E MANUTEN&Ccedil;&Atilde;O EIRELI
                 <!-- </p>
                 <hr class="hr-quote">
                 <p class="text-center">
@@ -205,7 +205,7 @@ if($result_slide !== false){
 
                         <div class="call-to-action__button">
                             <!-- <a target="_self" href="<?php echo $texts['PAGINA_CONTATO_LINK']; ?>" class="btn btn-secondary"><?php echo $texts['ENTRE_CONTATO']; ?></a> -->
-                            <a target="_self" href="http://usindi.com.br/pt/contato" class="btn btn-secondary"><?php echo $texts['ENTRE_CONTATO']; ?></a>
+                            <a target="_self" href="https://usindi.com.br/pt/contato" class="btn btn-secondary"><?php echo $texts['ENTRE_CONTATO']; ?></a>
                         </div>
                     </div>
                 </div>

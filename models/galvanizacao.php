@@ -90,11 +90,6 @@ require(SYSBASE."templates/".TEMPLATE."/common/header.php");?>
                     </a>
                 </figure>
                 <figure class="gallery-item">
-                    <a href="<?php echo DOCBASE; ?>templates/<?php echo TEMPLATE; ?>/images/empresa/grande/3.jpg">
-                        <img alt="about" src="<?php echo DOCBASE; ?>templates/<?php echo TEMPLATE; ?>/images/empresa/pequena/3.jpg">
-                    </a>
-                </figure>
-                <figure class="gallery-item">
                     <a href="<?php echo DOCBASE; ?>templates/<?php echo TEMPLATE; ?>/images/empresa/grande/4.jpg">
                         <img alt="about" src="<?php echo DOCBASE; ?>templates/<?php echo TEMPLATE; ?>/images/empresa/pequena/4.jpg">
                     </a>

@@ -181,7 +181,7 @@ require(SYSBASE."templates/".TEMPLATE."/common/header.php"); ?>
 							</form>
 						</div>
 						<div class="widget_recent_entries">
-							<div class="fb-page" data-href="https://www.facebook.com/usindi.brasil" data-tabs="timeline,events,messages" data-small-header="false" data-adapt-container-width="true" data-hide-cover="false" data-show-facepile="true"><blockquote cite="https://www.facebook.com/usindi.brasil" class="fb-xfbml-parse-ignore"><a href="https://www.facebook.com/usindi.brasil">USINDI - Montagens e Manutenção LTDA</a></blockquote></div>
+							<div class="fb-page" data-href="https://www.facebook.com/usindi.brasil" data-tabs="timeline,events,messages" data-small-header="false" data-adapt-container-width="true" data-hide-cover="false" data-show-facepile="true"><blockquote cite="https://www.facebook.com/usindi.brasil" class="fb-xfbml-parse-ignore"><a href="https://www.facebook.com/usindi.brasil">USINDI - Montagens e Manutenção EIRELI</a></blockquote></div>
 						</div>
 
 

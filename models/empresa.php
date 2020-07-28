@@ -20,7 +20,7 @@ require(SYSBASE."templates/".TEMPLATE."/common/header.php");?>
 			<div class="container">
 				<h1 class="main-title__primary"><?php echo $texts['SOBRE_NOS']; ?></h1>
 				<!--h3 class="main-title__secondary"><?php echo $texts['NOME_EMPRESA']; ?></h3 -->
-                                <p><b> USINDI - Montagens e Manuten&ccedil;&atilde;o LTDA </b></p>
+                                <p><b> USINDI - Montagens e Manuten&ccedil;&atilde;o EIRELI</b></p>
 			</div>
 		</div><!-- /.main-title -->
 		</div>
@@ -55,11 +55,11 @@ require(SYSBASE."templates/".TEMPLATE."/common/header.php");?>
 					<p><?php echo $texts['CONTEUDO_EMPRESA_4']; ?></p>
                     -->
 
-                    <p>Uma empresa com mais de 25 Anos de história nas indústrias de metalurgia, metal mecânica, fundição e prestação de serviços de montagem e manutenção Industrial de Médio e Grande porte em todo território nacional.</p>
+                    <p>Uma empresa com 30 Anos de história nas indústrias de metalurgia, metal mecânica, fundição, prestação de serviços de montagem, manutenção Industrial de Médio e Grande porte em todo território nacional.</p>
                     <p>Com parque industrial estruturado com tecnologias de última geração com mais de 7.000 m2 de área construída. Com 3 Unidades Produtivas: Tubarão –SC. – Pedras Grandes – SC. e Capivari de Baixo – SC. (No Complexo Termelétrico ENGIE Brasil Energia S.A.).</p>
                     <p>Operando com um quadro de 200 Colaboradores Fixos e 150 Colaboradores Variáveis, de acordo com Contratos firmados.</p>
-                    <p>Equipe qualificada e preparada para a excelência na qualidade de seus produtos e serviços, tendo como objetivo maior executar nossa MISSÃO: “Produzir e comercializar os produtos e serviços, com a tecnologia adequada e qualidade superior, visando à satisfação do cliente, contribuindo para o desenvolvimento nacional, a conservação e preservação do meio ambiente e o bem-estar social”.</p>
-                    <p>Estes atributos fazem da USINDI o parceiro comercial ideal nas áreas: Componentes Ferroviários, Materiais para Eletro Ferragem, Prestação de Serviços de Montagem e Manutenção Industrial, Caldeiraria, Dobra, Solda, Usinagem. Empresa Certificada no Sistema de Gestão da Qualidade – ISO 9001:2008 pela RINA Services S.p.A. - Itália.</p>
+                    <p>Somos uma equipe qualificada e preparada para a excelência na qualidade de nossos produtos e serviços, tendo como objetivo maior executar nossa MISSÃO: “Produzir e comercializar os produtos e serviços, com a tecnologia adequada e qualidade superior, visando à satisfação do cliente, contribuindo para o desenvolvimento nacional, a conservação e preservação do meio ambiente e o bem-estar social”.</p>
+                    <p>Estes atributos fazem da USINDI o parceiro comercial ideal nas áreas: Componentes Ferroviários, Materiais para Eletro Ferragem, Prestação de Serviços de Montagem e Manutenção Industrial, Caldeiraria, Dobra, Solda, Usinagem. Empresa Certificada no Sistema de Gestão da Qualidade – ISO 9001:2015 pela RINA Services S.p.A. - Itália.</p>
 
           <p class="text-center">
               <img class="img-responsive" alt="Logo" src="<?php echo DOCBASE; ?>templates/<?php echo TEMPLATE; ?>/images/rina.png">
