@@ -11,8 +11,7 @@
   					</p> -->
                                         <p class="text-left">
                                             A USINDI, empresa especializada em manuten&ccedil;&atilde;o, produ&ccedil;&atilde;o mec&acirc;nica, caldeiraria e usinagem
-                                            de alta tecnologia, foi certificada no Sistema de Gest&atilde;o da Qualidade - ISO 9001:2008, em
-                                            julho de 2010. Essa conquista evidencia o compromisso da empresa em atender o mercado com
+                                            de alta tecnologia, certificada no Sistema de Gest&atilde;o da Qualidade - ISO 9001:2015. Essa conquista evidencia o compromisso da empresa em atender o mercado com
                                             produtos de qualidade e pre&ccedil;os adequados ao cliente.
                                         </p>
           </div>

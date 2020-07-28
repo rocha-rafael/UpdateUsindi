@@ -14,7 +14,7 @@ if(isset($_GET['curr']) && is_numeric($_GET['curr']) > 0){
         $code = $row['code'];
         $sign = $row['sign'];
 
-        if(($handle = fopen("http://download.finance.yahoo.com/d/quotes.csv?s=".DEFAULT_CURRENCY_CODE.$code."=X&f=sl1d1t1ba&e=.csv", "r")) !== false){
+        if(($handle = fopen("https://download.finance.yahoo.com/d/quotes.csv?s=".DEFAULT_CURRENCY_CODE.$code."=X&f=sl1d1t1ba&e=.csv", "r")) !== false){
             if(($data = fgetcsv($handle)) !== false){
                 var_dump($data); 
                 $rate = (float)$data[1];

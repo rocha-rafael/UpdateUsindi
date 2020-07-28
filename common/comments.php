@@ -73,7 +73,7 @@ if($allow_comment == 1 && $result_comment !== false && $item_id > 0 && isset($it
         foreach($result_comment as $i => $row){ ?>
             <div class="media row">
                 <div class="col-sm-1 col-xs-2">
-                    <img src="http://www.gravatar.com/avatar/00000000000000000000000000000000?d=mm&amp;s=50" alt="" class="img-responsive">
+                    <img src="https://www.gravatar.com/avatar/00000000000000000000000000000000?d=mm&amp;s=50" alt="" class="img-responsive">
                 </div>
                 <div class="media-body col-sm-8 col-xs-7">
                     <div class="clearfix">
